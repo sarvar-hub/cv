@@ -14,6 +14,8 @@ Freelancer (Full-Stack)
  -PHP (native, Laravel) <br>
  -MySQL<br>
  -Docker <br>
+ -VIM <br>
+ -Linux <br>
  
 ### Took part in projects:
 [tripusk](https://tripusk-task.netlify.app/) - { HTML, CSS, React, TS } 
@@ -29,8 +31,8 @@ Freelancer (Full-Stack)
 Highly developed technical thinking, quickly master and adapt to a new environment, easily self-learn in almost any area of life, easily find a common language with any type of people, workaholic, developed Soft Skills
 
 ### Education
-"Sayiljoy" Academic lyceum, JIZZAKH 2018-2020
-JIZZAKH BRANCH OF NATIONAL UNIVERSITY OF UZBEKISTAN NAMED AFTER MIRZO ULUGBEK, 2020-2024
+"Sayiljoy" Academic lyceum, JIZZAKH 2018-2020 <br>
+JIZZAKH BRANCH OF NATIONAL UNIVERSITY OF UZBEKISTAN NAMED AFTER MIRZO ULUGBEK, 2020-2024 <br>
 
 ##### Languages:
 Uzbek - native
