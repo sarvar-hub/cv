@@ -35,7 +35,7 @@ Highly developed technical thinking, quickly master and adapt to a new environme
 JIZZAKH BRANCH OF NATIONAL UNIVERSITY OF UZBEKISTAN NAMED AFTER MIRZO ULUGBEK, 2020-2024 <br>
 
 ##### Languages:
-Uzbek - native
-Russian - intermediate
-English — pre-intermediate
+Uzbek - native <br>
+Russian - intermediate <br>
+English — pre-intermediate <br>
 
