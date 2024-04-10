@@ -18,11 +18,11 @@ Freelancer (Full-Stack)
  -Linux <br>
  
 ### Took part in projects:
+[foodcore](https://foodcore-portfolio.netlify.app/) - { HTML, CSS, React, TS } 
+
 [tripusk](https://tripusk-task.netlify.app/) - { HTML, CSS, React, TS } 
 
 [housestaff](https://housestaff-portfolio.netlify.app/) - { HTML, CSS, React, TS } 
-
-[foodcore](https://foodcore-portfolio.netlify.app/) - { HTML, CSS, React, TS } 
 
 [moviecore](https://moviecore-portfolio.netlify.app/) - { HTML, CSS, React, TS } 
 
