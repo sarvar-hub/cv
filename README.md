@@ -1,17 +1,19 @@
  ### CV
  ### Sarvar Xudayberdiyev
-Experience 
+Experience <br> 
 Freelancer (Full-Stack) 
 
 ### Stack
  -HTML <br>
  -CSS / SCSS / SASS <br>
  -JS (ES5, ES6)  <br>
+ -TS <br>
  -React  <br>
  -Zustand <br>
  -REST API <br>
- -PHP <br>
+ -PHP (native, Laravel) <br>
  -MySQL<br>
+ -Docker <br>
  
 ### Took part in projects:
 [tripusk](https://tripusk-task.netlify.app/) - { HTML, CSS, React, TS } 
