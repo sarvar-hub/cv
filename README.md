@@ -14,7 +14,7 @@ Freelancer (Full-Stack)
  -PHP (native, Laravel) <br>
  -MySQL<br>
  -Docker <br>
- -VIM <br>
+ -Vim <br>
  -Linux <br>
  
 ### Took part in projects:
