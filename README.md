@@ -18,6 +18,10 @@ Freelancer (Full-Stack)
  -Linux <br>
  
 ### Took part in projects:
+[tomatocore](https://tomatocore-portfolio.netlify.app/) 
+[tomatocore-admin](https://tomatocore-admin.netlify.app/)
+{ HTML, CSS, React, TS, NodeJS, ExpressJS }
+
 [foodcore](https://foodcore-portfolio.netlify.app/) - { HTML, CSS, React, TS } 
 
 [tripusk](https://tripusk-task.netlify.app/) - { HTML, CSS, React, TS } 
