@@ -19,8 +19,7 @@ Freelancer (Full-Stack)
  
 ### Took part in projects:
 [tomatocore](https://tomatocore-portfolio.netlify.app/) 
-[tomatocore-admin](https://tomatocore-admin.netlify.app/)
-- { HTML, CSS, React, TS, NodeJS, ExpressJS }
+[tomatocore-admin](https://tomatocore-admin.netlify.app/) - { HTML, CSS, React, TS, NodeJS, ExpressJS }
 
 [foodcore](https://foodcore-portfolio.netlify.app/) - { HTML, CSS, React, TS } 
 
