@@ -21,6 +21,8 @@ Freelancer (Full-Stack)
 [tomatocore](https://tomatocore-portfolio.netlify.app/) 
 [tomatocore-admin](https://tomatocore-admin.netlify.app/) - { HTML, CSS, React, TS, NodeJS, ExpressJS }
 
+[youtube-clone](https://youtube-clone-portfolio-sarvar.netlify.app/) - { HTML, CSS, React, TS, Youtube Data API }
+
 [foodcore](https://foodcore-portfolio.netlify.app/) - { HTML, CSS, React, TS } 
 
 [tripusk](https://tripusk-task.netlify.app/) - { HTML, CSS, React, TS } 
