@@ -11,7 +11,7 @@ Bakalavr: Mirzo Ulug‘bek nomidagi O‘zbekiston Milliy Universiteti Jizzax fil
  Dasturlash tajribasi: E-commerce va restoranlar uchun tizimlar tuzish(Stripe orqali payment).<br />
  Dasturlash tillari: PHP, Laravel, JavaScript (TypeScript), HTML, CSS.<br />
  Texnologiyalar: Laravel framework, React JS library, MySQL, MongoDB, RESTful API.<br />
- Frontend mahoratlar: React, Zustand, HTML, CSS/SASS, Tailwind<br />
+ Frontend mahoratlar: React, TypeScript, Zustand, HTML, CSS/SASS, Tailwind<br />
  Backend mahoratlar: PHP, Laravel, Node.js, Express.js.<br />
  Texnologiyalar: Git, Docker.<br />
 
