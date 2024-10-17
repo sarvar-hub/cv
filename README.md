@@ -5,8 +5,7 @@
 ### Stack
  -HTML <br>
  -CSS / SCSS / SASS <br>
- -JS (ES5, ES6)  <br>
- -TS <br>
+ -JS(TS)  <br>
  -React  <br>
  -Zustand <br>
  -REST API <br>
