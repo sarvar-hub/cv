@@ -1,7 +1,6 @@
  ### CV
  ### Sarvar Xudayberdiyev
-Experience <br> 
-Freelancer (Full-Stack) 
+ Front-End developer 
 
 ### Stack
  -HTML <br>
